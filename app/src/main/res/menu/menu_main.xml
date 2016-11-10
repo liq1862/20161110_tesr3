@@ -8,5 +8,7 @@
         android:title="@string/action_settings"
         app:showAsAction="never" />
     <item android:title="about"
-        android:id="@+id/Action_about" />
+        android:id="@+id/Action_about"
+        android:icon="@android:drawable/ic_menu_manage"
+        app:showAsAction="always" />
 </menu>
